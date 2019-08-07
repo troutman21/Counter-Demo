@@ -1,10 +1,8 @@
-import { createStore, combineReducers } from 'redux';
-import Reducer from './reducers/counterReducer';
+import { createStore } from 'redux';
+import rootReducer from './reducers/index';
 
-// if there were multiple reducers i would need to import all reducer
-// functions into one file and use the combineReducers function from redux and
-// then pass in that returned value to the createStore function here
+const store = createStore(rootReducer);
 
-const store = createStore(Reducer);
+console.log(`store: `, store);
 
 export default store;
