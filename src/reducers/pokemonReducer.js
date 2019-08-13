@@ -1,6 +1,6 @@
 import types from '../actions/types';
 
-const initialState = {};
+const initialState = { pokemon: null };
 
 const pokemonReducer = (previousState = initialState, action) => {
   console.log(`previousState from PokemonReducer: `, previousState);

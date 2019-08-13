@@ -3,6 +3,7 @@ import store from '../store';
 import Counter from '../containers/counter';
 import Increment from '../containers/increment';
 import Decrement from '../containers/decrement';
+import PokemonButton from '../containers/pokemonButton';
 import PokemonDisplay from '../containers/pokemonDisplay';
 
 const App = () => (
@@ -13,6 +14,7 @@ const App = () => (
       <Decrement />
       <Increment />
     </div>
+    <PokemonButton />
     <PokemonDisplay />
   </div>
 );
