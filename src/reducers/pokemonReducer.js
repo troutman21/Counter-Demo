@@ -16,3 +16,4 @@ const pokemonReducer = (previousState = initialState, action) => {
 };
 
 export default pokemonReducer;
+ 
