@@ -4,7 +4,10 @@ import { connect } from 'react-redux';
 class PokemonDisplay extends Component {
   render() {
     return this.props.pokemon ? (
-      <img src={this.props.pokemon} alt="current Pokemon" />
+      <img
+        src={this.props.pokemon.sprites.front_default}
+        alt="current Pokemon"
+      />
     ) : null;
   }
 }

@@ -43,3 +43,8 @@ button{
 #increment{
   background-color: green;
 }
+
+img{
+  width: 200px;
+  border: 1px solid red;
+}
