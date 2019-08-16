@@ -13,8 +13,8 @@ const App = () => (
     <div id="button-container">
       <Decrement />
       <Increment />
+      <PokemonButton />
     </div>
-    <PokemonButton />
     <PokemonDisplay />
   </div>
 );
