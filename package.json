@@ -1,7 +1,7 @@
 {
-  "name": "practicereactapp",
+  "name": "practice-react-app",
   "version": "1.0.0",
-  "description": "A simple counter app that has different branches for implimentations with different libraries",
+  "description": "A simple counter app that has different branches for implementations with different libraries",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -17,8 +17,6 @@
     "css-loader": "^1.0.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-redux": "^5.0.7",
-    "redux": "^4.0.0",
     "style-loader": "^0.22.1",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0",

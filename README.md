@@ -10,3 +10,4 @@
 - usingReduxThunk:
   > Using redux thunk to query the pokemon API to obtain images of each pokemon
 
+> ### Note: If you add a new branch with new tech implementations, add the description to the README.md file in the `master` branch

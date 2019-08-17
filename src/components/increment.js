@@ -1,18 +1,9 @@
 import React from 'react';
-import { connect } from 'react-redux';
-import incrementActionCreator from '../actions/incrementActionCreator';
 
 const Increment = props => (
-  <button id="increment" onClick={props.incrementActionCreator}>
+  <button id="increment" onClick={props.incrementCount}>
     +1
   </button>
 );
 
-const mapDispatchToProps = dispatch => ({
-  incrementActionCreator: e => dispatch(incrementActionCreator(e)),
-});
-
-export default connect(
-  null,
-  mapDispatchToProps
-)(Increment);
+export default Increment;
