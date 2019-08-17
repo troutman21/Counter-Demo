@@ -2,7 +2,7 @@
 ## Checkout the various branches in this repo to see how different tools are used
 ## Branch:
 - master
-  > Need to redo this with just standard React
+  > Using vanilla React features
 - usingHooks
   > Need to redo this with using react hooks
 - usingContextAPI
