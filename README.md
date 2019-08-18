@@ -4,7 +4,7 @@
 - master
   > Using vanilla React features
 - usingHooks
-  > Need to redo this with using react hooks
+  > Using regular React plus useState and useEffect hooks
 - usingContextAPI
   > need to redo this using the Context API
 - usingReduxThunk:
