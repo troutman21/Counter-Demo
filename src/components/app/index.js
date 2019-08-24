@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import Count from './count';
-import Increment from './increment';
-import Decrement from './decrement';
+import Count from '../count';
+import Increment from '../increment';
+import Decrement from '../decrement';
+import style from './style.css';
+
 
 class App extends Component {
   constructor() {
@@ -38,10 +40,10 @@ class App extends Component {
 
   render() {
     return (
-      <div id="app">
+      <div className={style.div}>
         <Count count={this.state.count} />
-        <hr />
-        <div id="button-container">
+        <hr className={style.hr} />
+        <div className={style.buttonContainer}>
           <Decrement decrementCount={this.decrementCount} />
           <Increment incrementCount={this.incrementCount} />
         </div>
