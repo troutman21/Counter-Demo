@@ -14,7 +14,7 @@
   - [ ] Finish setting up HMR properly
   - [ ] Set up Global Styles for CSS custom properties
   - [ ] Port over all styles
-- usingStyledComponents
+- usingStyledComponentsx
   > Need to use Styled Components for styling
 
 > ### Note: If you add a new branch with new tech implementations, add the description to the README.md file in the `master` branch

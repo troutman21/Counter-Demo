@@ -4,7 +4,6 @@ import Increment from '../increment';
 import Decrement from '../decrement';
 import style from './style.css';
 
-
 class App extends Component {
   constructor() {
     super();
@@ -50,6 +49,10 @@ class App extends Component {
       </div>
     );
   }
+}
+
+if (module.hot) {
+  module.hot.accept();
 }
 
 export default App;
