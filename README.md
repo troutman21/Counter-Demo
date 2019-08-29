@@ -13,5 +13,7 @@
   > Need to set CSS using CSSModules
 - usingStyledComponents
   > Need to use Styled Components for styling
+- usingRefs
+  > Need to use React Refs in some way
 
 > ### Note: If you add a new branch with new tech implementations, add the description to the README.md file in the `master` branch
