@@ -18,3 +18,16 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+
+/* Not sure if this is best practice to add these styles here */
+
+/*Need to wrap this in the global wrapper so webpack doesn't hash the #root id name*/
+/* If I don't the id name will be hashed and it won't match the root id already hard coded in index.html */
+:global(#root) {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

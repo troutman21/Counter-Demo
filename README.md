@@ -11,10 +11,11 @@
   > Using redux thunk to query the pokemon API to obtain images of each pokemon
 - usingCSSModules
   > Need to set CSS using CSSModules
-  - [ ] Finish setting up HMR properly
-  - [ ] Set up Global Styles for CSS custom properties
+  - [x] Finish setting up HMR properly
+  - [] Set up Global Styles for CSS custom properties
+    - Why are styles not being applied to root element when using an id selectors in global styles css file???
   - [ ] Port over all styles
-- usingStyledComponentsx
+- usingStyledComponents
   > Need to use Styled Components for styling
 
 > ### Note: If you add a new branch with new tech implementations, add the description to the README.md file in the `master` branch
