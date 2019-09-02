@@ -10,10 +10,7 @@
 - usingReduxThunk:
   > Using redux thunk to query the pokemon API to obtain images of each pokemon
 - usingCSSModules
-  > Need to set CSS using CSSModules
-  - [x] Finish setting up HMR properly
-  - [] Set up Global Styles for CSS custom properties
-  - [ ] Do basic styling
+  > Using CSS using CSSModules
 - usingStyledComponents
   > Need to use Styled Components for styling
 
