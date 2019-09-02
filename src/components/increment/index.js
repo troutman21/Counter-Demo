@@ -1,8 +1,8 @@
 import React from 'react';
-import styles from './style.css';
+import style from './style.css';
 
 const Increment = props => (
-  <button className={styles.button} onClick={props.incrementCount}>
+  <button className={style.button} onClick={props.incrementCount}>
     +1
   </button>
 );

@@ -39,7 +39,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className={style.div}>
+      <div className={style.app}>
         <Count count={this.state.count} />
         <hr className={style.hr} />
         <div className={style.buttonContainer}>

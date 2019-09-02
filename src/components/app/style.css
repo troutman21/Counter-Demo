@@ -1,4 +1,4 @@
-div{
+.app{
   width: 300px;
   display: flex;
   flex-direction: column;
@@ -9,3 +9,7 @@ hr {
   margin-right: 0;
 }
 
+.buttonContainer{
+  display:flex;
+  justify-content: center;
+}

@@ -1,8 +1,8 @@
 import React from 'react';
-import styles from './style.css';
+import style from './style.css';
 
 const Decrement = props => (
-  <button className={styles.button} onClick={props.decrementCount}>
+  <button className={style.button} onClick={props.decrementCount}>
     -1
   </button>
 );
