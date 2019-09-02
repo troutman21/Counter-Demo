@@ -10,7 +10,9 @@
 - usingReduxThunk:
   > Using redux thunk to query the pokemon API to obtain images of each pokemon
 - usingCSSModules
-  > Need to set CSS using CSSModules
+  > Need to set CSS using CSSModules w/ Vanilla JS
+- using CSSModulesAndSCSS
+  > Need to change `usingCSSModules` branch to use SCSS.
 - usingStyledComponents
   > Need to use Styled Components for styling
 - usingRefs
