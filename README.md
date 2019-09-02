@@ -13,8 +13,7 @@
   > Need to set CSS using CSSModules
   - [x] Finish setting up HMR properly
   - [] Set up Global Styles for CSS custom properties
-    - Why are styles not being applied to root element when using an id selectors in global styles css file???
-  - [ ] Port over all styles
+  - [ ] Do basic styling
 - usingStyledComponents
   > Need to use Styled Components for styling
 
