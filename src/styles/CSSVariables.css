@@ -2,4 +2,6 @@
 :root{
   --increment-color: green;
   --decrement-color: red;
+  --lrgBtn-width: 100px;
+  --lrgBtn-height: 30px;
 }

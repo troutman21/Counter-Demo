@@ -1,3 +1,5 @@
 .button{
   background-color: var(--increment-color);
+  height: var(--lrgBtn-height);
+  width: var(--lrgBtn-width);
 }
