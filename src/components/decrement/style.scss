@@ -1,0 +1,8 @@
+@import '../../global-styles/css-variables.scss';
+
+.button{
+  background-color: $decrement-color;
+  height: $lrgBtn-height;
+  width: $lrgBtn-width;
+  margin: 5px;
+}

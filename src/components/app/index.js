@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Count from '../count';
 import Increment from '../increment';
 import Decrement from '../decrement';
-import style from './style.css';
+import style from './style.scss';
 
 class App extends Component {
   constructor() {
