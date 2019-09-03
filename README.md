@@ -11,9 +11,8 @@
   > Using redux thunk to query the pokemon API to obtain images of each pokemon
 - [x] `usingCSSModules`
   > Using CSSModules w/ vanilla CSS
-- [ ] `usingCSSModulesAndSCSS`
+- [x] `usingCSSModulesAndSCSS`
   > Using CSSModules w/ SCSS
-  > Need to change `usingCSSModules` branch to use SCSS.
 - [ ] `usingStyledComponents`
   > Using Styled Components for styling
 - [ ] `usingRefs`
