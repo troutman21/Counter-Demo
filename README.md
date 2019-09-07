@@ -8,6 +8,8 @@
 - [x] `usingContextAPI`
   > Using the Context API to pass down state
   > Also uses useContext Hook for consuming context data
+- [ ] `usingUseReducer`
+   > Using the useReducer hook
 - [x] `usingReduxThunk`
   > Using redux thunk to query the pokemon API to obtain images of each pokemon
 - [x] `usingCSSModules`
