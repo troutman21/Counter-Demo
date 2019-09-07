@@ -5,8 +5,9 @@
   > Using vanilla React features
 - [x] `usingHooks`
   > Using regular React plus useState and useEffect hooks
-- [ ] `usingContextAPI`
-  >  Using the Context API to pass down state
+- [x] `usingContextAPI`
+  > Using the Context API to pass down state
+  > Also uses useContext Hook for consuming context data
 - [x] `usingReduxThunk`
   > Using redux thunk to query the pokemon API to obtain images of each pokemon
 - [x] `usingCSSModules`
