@@ -43,3 +43,15 @@ button{
 #increment{
   background-color: green;
 }
+
+.level1{
+  border: 5px solid green;
+  margin: 5px;
+  padding: 5px;
+}
+
+.level2{
+  border: 5px solid purple;
+  margin: 5px;
+  padding: 5px;
+}
